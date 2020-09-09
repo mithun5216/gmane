@@ -1,0 +1,1 @@
+This is the capstone project of my final course in my specialization in Python for Everybody.
